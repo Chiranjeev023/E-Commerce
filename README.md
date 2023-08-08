@@ -1,1 +1,1 @@
-# E-Commerce
+An ecommerce platform is software for business owners to build an online store and sell products and services online. Most ecommerce platforms include tools to manage marketing, sales, and business operations. # E-Commerce
